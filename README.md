@@ -12,6 +12,8 @@ This checks 10 different exchanges for different Arbitrage opportunities.
 
 To get started, simply run the file in the command line and enter the crypto tickers of your choice.
 
+Entering 'go' with no arguments will check all top 100 coins by market cap.
+
 ```
 python pycoin.py
 ```
