@@ -6,7 +6,6 @@ from rich.text import Text
 from rich.style import Style
 from rich.progress import track
 from rich.align import Align
-import time
 
 # Create an instance of the CoinGeckoAPI client
 cg = CoinGeckoAPI()
